@@ -1,3 +1,3 @@
 # E-nitiate
 
-Bla bla bla
+My first project for the E-nitiate Camp
